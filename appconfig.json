@@ -1,0 +1,11 @@
+{
+    "name": "Share Point",
+    "provider": "SAP FSM",
+    "description": "Share Point",
+    "version": "1.0.0",
+    "icon": "https://github.com/FSM-Cloud-FSM/SharePointURL.github.io/blob/8dfa0e2156101a83ea07e6e037874f543d5e7d45/SharePointLogo.png",
+    "useShellSDK": false,
+    "outletPositions": [],
+    "insideShell": false,
+    "extensionAttributes": []
+}
