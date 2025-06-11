@@ -1,7 +1,7 @@
 {
-  "name": "SharePoint",
+  "name": "KnowlegeBase",
   "version": "1.0.0",
-  "description": "Share Point",
+  "description": "Knowlege Base",
   "main": "index.html",
   "scripts": {
     "test": "go-test"
