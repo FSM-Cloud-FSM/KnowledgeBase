@@ -1,7 +1,7 @@
 {
-  "name": "KnowlegeBase",
+  "name": "KnowledgeBase",
   "version": "1.0.0",
-  "description": "Knowlege Base",
+  "description": "Knowledge Base",
   "main": "index.html",
   "scripts": {
     "test": "go-test"
