@@ -1,9 +1,9 @@
 {
-    "name": "KnowlegeBase",
+    "name": "KnowledgeBase",
     "provider": "SAP FSM",
-    "description": "Knowlege Base",
+    "description": "Knowledge Base",
     "version": "1.0.0",
-    "icon": "https://github.com/FSM-Cloud-FSM/KnowlegeBase/blob/main/KnowlegeBase.jpg",
+    "icon": "https://github.com/FSM-Cloud-FSM/KnowlegeBase/blob/main/KnowledgeBase.jpg",
     "useShellSDK": false,
     "outletPositions": [],
     "insideShell": false,
