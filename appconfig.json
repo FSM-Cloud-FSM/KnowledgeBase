@@ -1,9 +1,9 @@
 {
-    "name": "Share Point",
+    "name": "KnowlegeBase",
     "provider": "SAP FSM",
-    "description": "Share Point",
+    "description": "Knowlege Base",
     "version": "1.0.0",
-    "icon": "https://github.com/FSM-Cloud-FSM/SharePointURL/blob/28ca990ce94071d79ded725f47deebe40499e651/SharePointLogo.png",
+    "icon": "https://github.com/FSM-Cloud-FSM/KnowlegeBase/blob/main/KnowlegeBase.jpg",
     "useShellSDK": false,
     "outletPositions": [],
     "insideShell": false,
